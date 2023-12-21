@@ -2,25 +2,25 @@
 
 This file is meant to replace the **HoodLoader2CLPUnoMegaController.ino** file that is provided in the [Corsair Lighting Protocol](https://github.com/Legion2/CorsairLightingProtocol) GitHub project.
 
-# Files
-
-Download the .ino file [here](https://github.com/SpaceYetiStudios/CLP_Non_Addressable/blob/daea7d94fc065053a486860ff7da7622efb6c1f5/Files/HoodLoader2CLPUnoMegaController_NonAddressable.ino)!
-
-# Installation
-
-Follow the instructions provided [here](https://github.com/SpaceYetiStudios/CLP_Non_Addressable.wiki.git).
-
-# Why use this?
+## Why use this?
 
 This was originally made because I wanted to use a non-addressable LED with [SignalRGB](https://www.signalrgb.com/) and my Arduino, but they didn't provide a file for that. I decided to make my own instead!
 
 It should allow the user to connect their Corsair Lighting Protocol-enabled Arduino to any non-addressable RGB LED light, such as a light strip, CPU cooler, or literally any other RGB light!
 
-# Original Files
+## Files
 
-You can find the original GitHub project for Corsair Lighting Protocol [here](https://github.com/Legion2/CorsairLightingProtocol)!
+Download the .ino file [here](https://github.com/SpaceYetiStudios/CLP_Non_Addressable/blob/daea7d94fc065053a486860ff7da7622efb6c1f5/Files/HoodLoader2CLPUnoMegaController_NonAddressable.ino)!
 
-# How to Use
+## Original Files
+
+You can find the original GitHub project for Corsair Lighting Protocol [here](https://github.com/Legion2/CorsairLightingProtocol).
+
+# Installation
+
+Follow the instructions provided [here](https://github.com/SpaceYetiStudios/CLP_Non_Addressable.wiki.git).
+
+### How to Use
 
 1. Connect your first RGB light to the pins 3 (Red), 5 (Green), 6 (Blue), and the GND connection.
 
