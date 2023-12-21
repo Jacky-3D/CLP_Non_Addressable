@@ -2,12 +2,11 @@
 
 This file is meant to replace the **HoodLoader2CLPUnoMegaController.ino** file that is provided in the [Corsair Lighting Protocol](https://github.com/Legion2/CorsairLightingProtocol) GitHub project.
 
-
 # Files
 
 Download the .ino file [here](https://github.com/SpaceYetiStudios/CLP_Non_Addressable/blob/daea7d94fc065053a486860ff7da7622efb6c1f5/Files/HoodLoader2CLPUnoMegaController_NonAddressable.ino)!
 
-## Installation
+# Installation
 
 Follow the instructions provided [here](https://github.com/SpaceYetiStudios/CLP_Non_Addressable.wiki.git).
 
@@ -23,9 +22,9 @@ You can find the original GitHub project for Corsair Lighting Protocol [here](ht
 
 ## How to Use
 
-Connect your first RGB light to the pins 3 (Red), 5 (Green), 6 (Blue), and the GND connection.
+1. Connect your first RGB light to the pins 3 (Red), 5 (Green), 6 (Blue), and the GND connection.
 
-The second LED(s) should be connected to pins 9 (Red), 10 (Green), 11 (Blue), and the GND connection.
+2. The second LED(s) should be connected to pins 9 (Red), 10 (Green), 11 (Blue), and the GND connection.
 
 ***(Make sure to include a resistor on your GND connection if needed!)***
 
